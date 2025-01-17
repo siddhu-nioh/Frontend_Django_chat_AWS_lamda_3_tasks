@@ -1,0 +1,2 @@
+# Frontend_Django_chat_AWS_lamda_3_tasks
+ indtall the dependencies for the django chat application django  and channels  , ensjure that seetings.py contain chat and  channels in installed apps  and the frontend  task is simply deloped please check it and  aws task pease install   boto 3 and aws coommand line interface to  invoke in the python local interface if in aws console they are pre isntalled no  need to worry when you aws cli give your all acount credentilas to run it
